@@ -1,7 +1,8 @@
 # TrafficScope
 
-This app finds the traffic times for a destination in 5 minute intervals between two different times.
-A usual time, and the earliest possible time for departure.
+After entering your earliest departure time(EDT), latest departure time(LDT), and latest time of arrival:
+The application will calculate future estimated traffic times in 5 minute intervals between your EDT, and LDT.
+You will leave and arrive, on time, at the most efficient times.
 
 The app utilizes: Dynamic, and static table views. Special fonts, and custom views and headers. I hope you enjoy!
 
